@@ -1,0 +1,137 @@
+.legal-page .legal-hero {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+
+.legal-page h1 {
+  font-size: clamp(2.2rem, 5vw, 3.8rem);
+  margin-bottom: 1rem;
+}
+
+.legal-meta {
+  margin-bottom: 0;
+  font-size: 1rem;
+}
+
+.legal-meta a {
+  color: var(--accent-2);
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+
+.legal-content {
+  padding-top: 0;
+}
+
+.legal-card {
+  padding: 1.6rem;
+  border: 1px solid var(--line);
+  border-radius: 1.35rem;
+  background: linear-gradient(180deg, var(--panel), rgba(255, 255, 255, .035));
+}
+
+.legal-card h2 {
+  font-size: 1.35rem;
+  margin-top: 2rem;
+  margin-bottom: .75rem;
+}
+
+.legal-card h2:first-child {
+  margin-top: 0;
+}
+
+.legal-card h3 {
+  font-size: 1.05rem;
+  color: var(--accent);
+  margin-top: 1.25rem;
+}
+
+.legal-card p,
+.legal-card li {
+  color: var(--muted);
+}
+
+.legal-card strong {
+  color: var(--text);
+}
+
+.legal-card a {
+  color: var(--accent-2);
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+
+.legal-card ul {
+  padding-left: 1.2rem;
+}
+
+.legal-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: .75rem 0 1rem;
+  font-size: .95rem;
+}
+
+.legal-table th,
+.legal-table td {
+  border: 1px solid var(--line);
+  padding: .75rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.legal-table th {
+  color: var(--text);
+  background: rgba(255, 255, 255, .05);
+}
+
+.legal-table td {
+  color: var(--muted);
+}
+
+.apps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.app-card {
+  min-height: 180px;
+  padding: 1.45rem;
+  border: 1px solid var(--line);
+  border-radius: 1.35rem;
+  background: linear-gradient(180deg, var(--panel), rgba(255, 255, 255, .035));
+}
+
+.app-card h3 {
+  margin-bottom: .5rem;
+}
+
+.app-card p {
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.footer-links {
+  margin-top: .5rem;
+  font-size: .92rem;
+}
+
+.footer-links a {
+  color: var(--accent-2);
+}
+
+.footer-links a:hover {
+  color: var(--text);
+}
+
+@media (max-width: 520px) {
+  .legal-card {
+    padding: 1.1rem;
+  }
+
+  .legal-table {
+    display: block;
+    overflow-x: auto;
+  }
+}
