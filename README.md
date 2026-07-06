@@ -1,16 +1,14 @@
-# Acmedevs Web
+# Sitio web de Acmedevs
 
 Web estática preparada para Cloudflare Pages.
 
-## Archivos
+## Archivos necesarios
 
-- `index.html`: página principal.
-- `styles.css`: estilos.
+- `index.html`
+- `styles.css`
 
-## Publicación en Cloudflare Pages
+## Despliegue
 
-1. Entra en Cloudflare.
-2. Ve a Workers & Pages.
-3. Crea un nuevo proyecto de Pages.
-4. Sube estos archivos.
-5. Conecta el dominio `acmedevs.com` o `www.acmedevs.com`.
+Conectar este repositorio a Cloudflare Pages.
+No requiere comandos de compilación.
+Directorio de salida: raíz del repositorio.
