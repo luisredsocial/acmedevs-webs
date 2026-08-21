@@ -1,0 +1,295 @@
+LEGAL · APPS
+
+POLÍTICA DE PRIVACIDAD DE LAS APLICACIONES DE ACMEDEVS
+
+Plataformas: Android e iOS
+Última actualización: 21 de agosto de 2026
+Responsable: Acmedevs
+Contacto: info@acmedevs.com
+Web: https://acmedevs.com/
+
+1. ÁMBITO DE APLICACIÓN
+
+Esta Política de Privacidad se aplica a las aplicaciones móviles educativas y de preparación de oposiciones publicadas por Acmedevs para Android e iOS.
+
+Las aplicaciones comparten una arquitectura y funcionamiento similares y se diferencian principalmente por el contenido o banco de preguntas incluido en cada una.
+
+Esta política describe cómo se trata la información cuando utilizas cualquiera de estas aplicaciones (en adelante, «las Apps»).
+
+Las Apps permiten practicar preguntas tipo test, realizar simulacros, utilizar modos de estudio, repasar errores, consultar estadísticas y utilizar otras funciones de apoyo al estudio.
+
+Las Apps son gratuitas y pueden financiarse mediante publicidad gestionada por Google AdMob.
+
+2. RESPONSABLE DEL TRATAMIENTO
+
+Responsable: Acmedevs
+Correo electrónico: info@acmedevs.com
+Sitio web: https://acmedevs.com/
+
+3. DATOS ALMACENADOS LOCALMENTE EN EL DISPOSITIVO
+
+Las Apps pueden guardar localmente en el teléfono o tablet del usuario, sin enviarlos a servidores propios de Acmedevs:
+
+- Progreso de tests.
+- Historial de partidas o sesiones.
+- Estadísticas de estudio.
+- Preferencias de configuración.
+- Preguntas ya respondidas.
+- Preguntas falladas pendientes de repaso.
+- Estado de tests pausados o sesiones en curso.
+- Otros datos necesarios para el funcionamiento local de las funciones de estudio.
+
+Estos datos se almacenan en el dispositivo del usuario.
+
+Acmedevs no dispone de servidores propios destinados a recibir ni almacenar este contenido de estudio.
+
+La mayor parte de las funciones de estudio puede utilizarse sin conexión a internet. La conexión puede ser necesaria para cargar anuncios, abrir enlaces web, mostrar formularios de consentimiento, realizar analítica o enviar información técnica de diagnóstico y errores.
+
+4. SERVICIOS DE TERCEROS
+
+Las Apps pueden integrar servicios de terceros, principalmente del ecosistema Google.
+
+4.1. Google AdMob
+
+Las Apps pueden mostrar publicidad mediante Google AdMob.
+
+Google y sus socios publicitarios pueden tratar, entre otros:
+
+- Identificadores del dispositivo.
+- Identificadores publicitarios.
+- Dirección IP.
+- Ubicación aproximada derivada de la dirección IP.
+- Información del dispositivo.
+- Sistema operativo.
+- Versión de la App.
+- Interacciones con anuncios.
+- Interacciones con la App relacionadas con publicidad y medición.
+- Datos de publicidad.
+- Datos técnicos de diagnóstico.
+- Información de rendimiento.
+
+Acmedevs no vende datos personales de los usuarios.
+
+Política de privacidad de Google:
+https://policies.google.com/privacy
+
+Información sobre cómo Google utiliza datos en aplicaciones y sitios de terceros:
+https://policies.google.com/technologies/partner-sites
+
+4.2. Google User Messaging Platform (UMP)
+
+Cuando la normativa aplicable lo requiera, las Apps pueden utilizar Google User Messaging Platform (UMP) para mostrar formularios de consentimiento relacionados con publicidad y tecnologías de seguimiento.
+
+Este sistema puede permitir al usuario gestionar preferencias sobre:
+
+- Publicidad personalizada.
+- Publicidad no personalizada.
+- Uso de identificadores.
+- Tecnologías publicitarias.
+- Consentimiento exigido por la normativa aplicable.
+
+Cuando la App incluya esta función, el usuario podrá modificar sus preferencias desde las opciones de privacidad disponibles en la propia aplicación.
+
+4.3. Firebase Analytics
+
+Las Apps pueden utilizar Firebase Analytics para obtener información técnica y agregada sobre el uso de la aplicación.
+
+Firebase Analytics puede tratar datos como:
+
+- Interacciones con la App.
+- Eventos de uso.
+- Identificadores del dispositivo o de instalación.
+- Información técnica del dispositivo.
+- Sistema operativo.
+- Versión de la App.
+- Datos relacionados con uso y rendimiento.
+
+Estos datos se utilizan para analizar el funcionamiento de las Apps y mejorar la experiencia de usuario.
+
+4.4. Firebase Crashlytics
+
+Las Apps pueden utilizar Firebase Crashlytics para detectar, analizar y corregir errores técnicos y cierres inesperados.
+
+Crashlytics puede tratar, entre otros:
+
+- Datos de errores y fallos.
+- Información técnica del dispositivo.
+- Sistema operativo.
+- Versión de la App.
+- Estado técnico de la aplicación en el momento del error.
+- Datos de diagnóstico.
+- Datos de rendimiento.
+- Identificadores técnicos necesarios para relacionar eventos de fallo.
+
+Estos datos se utilizan con fines de diagnóstico, estabilidad y mejora del servicio.
+
+5. FINALIDADES DEL TRATAMIENTO
+
+Los datos pueden tratarse para las siguientes finalidades:
+
+- Permitir el funcionamiento de las Apps.
+- Guardar preferencias y progreso local.
+- Mostrar publicidad.
+- Medir el rendimiento de la publicidad.
+- Realizar analítica de uso.
+- Detectar y corregir errores.
+- Mejorar estabilidad y rendimiento.
+- Gestionar el consentimiento publicitario.
+- Cumplir obligaciones legales.
+- Proteger la seguridad e integridad de las Apps.
+
+6. BASE LEGAL DEL TRATAMIENTO
+
+Según el tipo de tratamiento y la normativa aplicable, las bases legales pueden incluir:
+
+- Ejecución del servicio solicitado por el usuario.
+- Interés legítimo en mantener, asegurar y mejorar las Apps.
+- Consentimiento del usuario cuando sea exigido.
+- Cumplimiento de obligaciones legales.
+
+En relación con publicidad personalizada, tecnologías similares y determinados identificadores, el tratamiento se realizará conforme al consentimiento y demás bases jurídicas aplicables en cada territorio.
+
+7. PERMISOS Y ACCESO AL DISPOSITIVO
+
+Las Apps pueden requerir acceso a internet y al estado de la red para:
+
+- Cargar anuncios.
+- Abrir enlaces web.
+- Enviar información técnica a servicios de analítica.
+- Enviar información de diagnóstico y errores.
+- Gestionar servicios de consentimiento publicitario.
+
+Con carácter general, las Apps no necesitan acceder a:
+
+- Contactos.
+- Cámara.
+- Micrófono.
+- SMS.
+- Ubicación precisa.
+- Fotografías o archivos personales.
+- Datos de salud.
+- Datos financieros.
+- Información biométrica.
+
+La ubicación aproximada puede inferirse técnicamente a partir de la dirección IP por servicios de terceros, sin que las Apps soliciten acceso a ubicación GPS precisa.
+
+8. DESTINATARIOS Y PROVEEDORES
+
+Los principales proveedores externos que pueden tratar datos relacionados con las Apps son:
+
+- Google AdMob.
+- Google User Messaging Platform.
+- Firebase Analytics.
+- Firebase Crashlytics.
+
+Estos proveedores pueden actuar como encargados del tratamiento, responsables independientes u otras figuras reconocidas por la normativa, dependiendo del servicio y del contexto del tratamiento.
+
+Acmedevs no comparte datos personales con otros terceros salvo cuando sea necesario para prestar estos servicios, cumplir una obligación legal o proteger derechos legítimos.
+
+9. TRANSFERENCIAS INTERNACIONALES
+
+Google y sus proveedores pueden tratar datos fuera del Espacio Económico Europeo.
+
+Cuando sea aplicable, se utilizarán mecanismos y garantías reconocidos por la normativa de protección de datos.
+
+Puede consultarse más información en la documentación legal y política de privacidad de Google.
+
+10. CONSERVACIÓN DE LOS DATOS
+
+Datos almacenados localmente:
+Se conservan en el dispositivo hasta que el usuario los elimine mediante las funciones disponibles, borre los datos de la App o desinstale la aplicación.
+
+Datos tratados por terceros:
+Los periodos de conservación dependen de las políticas, configuraciones y plazos establecidos por cada proveedor, especialmente Google.
+
+11. CÓMO ELIMINAR LOS DATOS
+
+El usuario puede eliminar información almacenada localmente mediante funciones disponibles en la App, como:
+
+- Borrar historial de tests.
+- Restablecer preguntas respondidas.
+- Eliminar progreso o estadísticas cuando exista esa opción.
+- Borrar los datos de la aplicación desde el sistema operativo, cuando proceda.
+- Desinstalar la App.
+
+Para datos tratados por Google en relación con publicidad, analítica o diagnóstico, el usuario puede utilizar las herramientas de privacidad ofrecidas por:
+
+- La propia App.
+- El sistema operativo Android o iOS.
+- Su cuenta de Google, cuando proceda.
+- Los mecanismos y herramientas facilitados por Google.
+
+12. MENORES DE EDAD
+
+Las Apps no están dirigidas específicamente a menores de 13 años.
+
+Acmedevs no recopila de forma consciente datos personales facilitados directamente por menores de esa edad.
+
+Si un padre, madre o tutor considera que un menor ha proporcionado datos personales directamente a Acmedevs, puede contactar en:
+
+info@acmedevs.com
+
+13. DERECHOS DEL USUARIO
+
+Cuando la normativa aplicable lo reconozca, el usuario puede ejercer los derechos de:
+
+- Acceso.
+- Rectificación.
+- Supresión.
+- Limitación del tratamiento.
+- Oposición.
+- Portabilidad.
+- Retirada del consentimiento.
+
+Para ejercer estos derechos, puede escribir a:
+
+info@acmedevs.com
+
+También puede presentar una reclamación ante la autoridad de control competente.
+
+En España:
+
+Agencia Española de Protección de Datos
+https://www.aepd.es/
+
+14. SEGURIDAD
+
+Acmedevs aplica medidas técnicas y organizativas razonables para proteger la información relacionada con las Apps.
+
+Los datos de estudio almacenados localmente permanecen en el dispositivo salvo que una función específica indique expresamente lo contrario.
+
+Se recomienda mantener actualizado el sistema operativo y las Apps y utilizar mecanismos de bloqueo y seguridad del dispositivo.
+
+15. GOOGLE PLAY Y APP STORE
+
+La información declarada en Google Play y App Store sobre privacidad y recopilación de datos se basa en las funcionalidades de las Apps y en los SDK de terceros integrados.
+
+Las prácticas de recopilación de datos pueden variar si un proveedor externo modifica sus servicios o sus SDK.
+
+Acmedevs revisará y actualizará esta Política de Privacidad y las declaraciones de las tiendas cuando existan cambios relevantes.
+
+16. CAMBIOS EN ESTA POLÍTICA
+
+Esta Política de Privacidad puede actualizarse para reflejar:
+
+- Cambios en las Apps.
+- Nuevas funcionalidades.
+- Cambios en los servicios de terceros.
+- Modificaciones legales o regulatorias.
+- Cambios en las prácticas de tratamiento de datos.
+
+La versión actualizada se publicará en la misma URL y se indicará la fecha de última actualización.
+
+17. CONTACTO
+
+Acmedevs
+
+Correo electrónico:
+info@acmedevs.com
+
+Sitio web:
+https://acmedevs.com/
+
+LEGAL · APPS
+Acmedevs
+Desarrollo de software · Inteligencia Artificial · Automatización
