@@ -1,5 +1,6 @@
 {
   "plataforma": "android",
-  "versionCode": 17,
-  "versionName": "1.3.3"
+  "versionCode": 19,
+  "versionName": "1.3.5",
+  "mensajeActualizacion": "Mejoras de estabilidad y catálogo de otras apps con enlaces a Google Play."
 }
