@@ -1,5 +1,5 @@
 {
-  "plataforma": "android",
-  "versionCode": 9,
-  "versionName": "1.0.8"
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "mensajeActualizacion": "Mejoras de navegación en Otras apps y correcciones de estabilidad."
 }
