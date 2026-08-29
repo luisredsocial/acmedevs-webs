@@ -103,8 +103,22 @@
   background: linear-gradient(180deg, var(--panel), rgba(255, 255, 255, .035));
 }
 
+.app-platform {
+  margin: 0 0 .35rem;
+  font-size: .82rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
 .app-card h3 {
   margin-bottom: .5rem;
+}
+
+.app-card code {
+  color: var(--text);
+  font-size: .9em;
 }
 
 .app-card p {
