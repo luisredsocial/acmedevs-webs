@@ -1,5 +1,5 @@
 {
-  "versionCode": 8,
-  "versionName": "1.3.0",
-  "mensajeActualizacion": "Banco de preguntas actualizado en todas las normativas."
+  "versionCode": 10,
+  "versionName": "1.4.0",
+  "mensajeActualizacion": "Banco de preguntas actualizado en todas las normativas. Mejoras de guardado y estabilidad."
 }
