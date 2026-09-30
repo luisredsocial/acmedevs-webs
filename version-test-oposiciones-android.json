@@ -1,5 +1,5 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.9",
-  "mensajeActualizacion": "Banco de preguntas actualizado y mejoras de anuncios."
+  "versionCode": 14,
+  "versionName": "1.0.10",
+  "mensajeActualizacion": "Corrección del banco de Contratos, avisos de banco incompleto y mejoras de estabilidad."
 }
