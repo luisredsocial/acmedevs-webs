@@ -1,5 +1,5 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.15",
-  "mensajeActualizacion": "Correcciones para que Premium se active al pagar."
+  "versionCode": 20,
+  "versionName": "1.0.16",
+  "mensajeActualizacion": "Corrección de pagos Premium y estabilidad de la suscripción."
 }
