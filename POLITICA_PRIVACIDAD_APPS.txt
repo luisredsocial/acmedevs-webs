@@ -1,6 +1,6 @@
 # POLÍTICA DE PRIVACIDAD DE LAS APPS DE ACMEDEVS
 
-**Última actualización: 15 de octubre de 2026**
+**Última actualización: 16 de octubre de 2026**
 
 ## 1. Ámbito de aplicación
 
@@ -13,6 +13,8 @@ Actualmente incluye, entre otras:
   - iOS: identificador correspondiente de la aplicación publicada por Acmedevs.
 - **Test Justicia Oposiciones**, disponible inicialmente para Android.
   - Android: `com.acmedevs.justicia`
+- **Test Oposiciones IIPP**, disponible inicialmente para Android.
+  - Android: `com.acmedevs.iipp`
 
 Esta política podrá aplicarse igualmente a otras Apps de preparación de oposiciones publicadas por Acmedevs que enlacen expresamente a esta misma Política de Privacidad y utilicen prácticas de tratamiento de datos equivalentes.
 
