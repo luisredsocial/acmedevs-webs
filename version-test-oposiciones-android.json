@@ -1,5 +1,5 @@
-{
-  "versionCode": 21,
-  "versionName": "1.0.17",
-  "mensajeActualizacion": "Mejoras en preguntas oficiales, historial Premium y estabilidad al pausar o retomar tests."
+﻿{
+  "versionCode": 22,
+  "versionName": "2.0.1",
+  "mensajeActualizacion": "Suscripción Premium corregida (premium_oficial) y mejoras en preguntas oficiales."
 }
