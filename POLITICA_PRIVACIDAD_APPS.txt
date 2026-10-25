@@ -1,6 +1,6 @@
 # POLÍTICA DE PRIVACIDAD DE LAS APPS DE ACMEDEVS
 
-**Última actualización: 16 de octubre de 2026**
+**Última actualización: 25 de octubre de 2026**
 
 ## 1. Ámbito de aplicación
 
@@ -15,6 +15,8 @@ Actualmente incluye, entre otras:
   - Android: `com.acmedevs.justicia`
 - **Test Oposiciones IIPP**, disponible inicialmente para Android.
   - Android: `com.acmedevs.iipp`
+- **Test Agentes de Hacienda**, aplicación educativa de preparación de oposiciones para Android.
+  - Android: `com.acmedevs.hacienda`
 
 Esta política podrá aplicarse igualmente a otras Apps de preparación de oposiciones publicadas por Acmedevs que enlacen expresamente a esta misma Política de Privacidad y utilicen prácticas de tratamiento de datos equivalentes.
 
@@ -23,6 +25,18 @@ Las Apps permiten practicar preguntas tipo test, realizar simulacros, utilizar m
 Las Apps pueden ofrecer funciones gratuitas y pueden financiarse mediante publicidad gestionada por Google AdMob y otros proveedores publicitarios integrados mediante los sistemas de mediación correspondientes.
 
 Algunas Apps pueden ofrecer compras o suscripciones Premium que permitan acceder a contenidos o funciones adicionales y/o utilizar la aplicación sin publicidad mientras la compra o suscripción permanezca activa.
+
+### Carácter independiente y fuentes gubernamentales
+
+Las Apps son productos educativos **no oficiales**. Acmedevs es un desarrollador independiente y no pertenece ni está afiliado, autorizado, patrocinado o respaldado por el Gobierno de España, la Agencia Estatal de Administración Tributaria (AEAT), el Ministerio de Hacienda ni ningún otro organismo público.
+
+Los contenidos de preparación no sustituyen a las convocatorias, programas, requisitos, plazos o comunicaciones oficiales. Para la oposición de Agentes de la Hacienda Pública pueden consultarse las siguientes fuentes públicas:
+
+- Boletín Oficial del Estado: https://www.boe.es/
+- Convocatoria publicada el 30 de diciembre de 2025 (BOE-A-2025-27056): https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-27056
+- Empleo público en la sede electrónica de la AEAT: https://sede.agenciatributaria.gob.es/Sede/trabajar-agencia-tributaria.html
+
+La referencia a una convocatoria concreta no implica que siga abierta o sea la más reciente. Consulte las fuentes oficiales para conocer el estado actualizado.
 
 ## 2. Responsable del tratamiento
 

@@ -173,3 +173,21 @@
     overflow-x: auto;
   }
 }
+
+/* Aviso visible de independencia para las aplicaciones de oposiciones */
+.app-notice {
+  margin-top: 1.4rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--accent);
+  border-radius: 1rem;
+  background: var(--panel);
+  color: var(--text);
+  line-height: 1.6;
+}
+.app-notice a, .app-card .app-card-note a {
+  color: var(--accent-2);
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+.app-card-note { font-size: .9rem; }
