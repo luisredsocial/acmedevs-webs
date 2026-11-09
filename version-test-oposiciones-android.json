@@ -1,5 +1,5 @@
-﻿{
-  "versionCode": 22,
-  "versionName": "2.0.1",
-  "mensajeActualizacion": "Suscripción Premium corregida (premium_oficial) y mejoras en preguntas oficiales."
+{
+  "versionCode": 24,
+  "versionName": "2.0.3",
+  "mensajeActualizacion": "Corrección de consentimiento de anuncios, cupo e historial."
 }
